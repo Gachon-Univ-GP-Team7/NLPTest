@@ -1,6 +1,6 @@
-[submodule "PyKoSpacing"]
-	path = PyKoSpacing
+[submodule "spacingLib"]
+	path = spacingLib
 	url = https://github.com/haven-jeon/PyKoSpacing.git
-[submodule "soynlp"]
-	path = soynlp
+[submodule "tokenLib"]
+	path = tokenLib
 	url = https://github.com/lovit/soynlp.git
