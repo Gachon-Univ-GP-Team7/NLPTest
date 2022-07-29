@@ -1,0 +1,6 @@
+[submodule "PyKoSpacing"]
+	path = PyKoSpacing
+	url = https://github.com/haven-jeon/PyKoSpacing.git
+[submodule "soynlp"]
+	path = soynlp
+	url = https://github.com/lovit/soynlp.git
